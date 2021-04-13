@@ -1,0 +1,14 @@
+ls = list all files in folder
+cd = change directory
+pwd = current directory
+ls - str  = with permissions
+cd .. = previous directory
+touch file_name = creates file
+cat = shows whats in the file
+cat > file_name = to write in the file 
+cat fil1 fil2 >> = merge two files
+tac filename = prints a file in reverse order linewise
+mkdir = makes a directory
+mv file directory = moves files from one firectory to another
+rm file_name = remove a file
+grep = search for a string in a file

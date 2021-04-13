@@ -1,0 +1,15 @@
+All system time commands ,00ih goes into eax:
+ INT 1Ah, 00h (0)        Read System-Timer Time Counter                   all 
+ INT 1Ah, 01h (1)        Set System-Timer Time Counter                    all 
+ INT 1Ah, 02h (2)        Read Real-Time Clock Time                       many 
+ INT 1Ah, 03h (3)        Set Real-Time Clock Time                        many 
+ INT 1Ah, 04h (4)        Read Real-Time Clock Date                       many 
+ INT 1Ah, 05h (5)        Set Real-Time Clock Date                        many 
+ INT 1Ah, 06h (6)        Set Real-Time Clock Alarm                       many 
+ INT 1Ah, 07h (7)        Reset Real-Time Clock Alarm                     many 
+ INT 1Ah, 08h (8)        Set Clock-Activated Power-On Mode        Convertible 
+ INT 1Ah, 09h (9)        Read Clock Alarm Time and Status         Convertible 
+ INT 1Ah, 0Ah (10)       Read System-Timer Day Counter               some XTs 
+ INT 1Ah, 0Bh (11)       Set System-Timer Day Counter                some XTs 
+ INT 1Ah, 80h (128)      Set Up Sound Multiplexer                        PCjr 
+
