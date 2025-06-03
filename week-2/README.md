@@ -1,1 +1,12 @@
-
+# Task List: 
+- Numeric Addition
+- Numeric Subtraction
+- Numeric Multiplication
+- Numeric Division
+- Increment Number by 1
+- Decrement Number by 1
+- Logical-AND
+- Logical OR
+- Logical XOR
+- Left shift by 3
+- Right shift by 3
