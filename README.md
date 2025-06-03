@@ -1,16 +1,15 @@
 # Computer Organisation Assignments
 This is a collection of assembly code assignments compiled in NASM
 
-# Week - 1
+# Development
+Install NASM https://www.nasm.us/
 
-# Week - 2
-
-# Week - 3
-
-# Week - 4
-
-# Week - 5
-
+# Assignments
+- [Week - 1](./week1/README.md)
+- Week - 2
+- Week - 3
+- Week - 4
+- Week - 5
 
 # Contributions
 Any contributions are welcome
